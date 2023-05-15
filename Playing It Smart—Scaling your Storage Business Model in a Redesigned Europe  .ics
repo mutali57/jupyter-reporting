@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Livestorm SAS
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230425T185355Z
+UID:7a02388c-0ff8-4bdd-98fa-6e939fff6b8d
+DTSTART:20230523T120000Z
+DTEND:20230523T130000Z
+DESCRIPTION:We’re excited to see the European Commission's recommendation
+  on energy storage and how it is finally being recognised as a crucial tec
+ hnology for a decarbonised energy system. Join this webinar to...\nTo join
+  the live event\, just click on this link https://app.livestorm.co/p/d3c5d
+ a18-32b1-4a13-a995-40d0d87136eb/live?email=mutali%40harmattanrenewables.co
+ m&key=e6740407356ace0d5eb3d0&s=63f73f60-7ba0-4670-ad75-cb5859e76727. This 
+ access link is personal\, so please don’t share it with anyone. For an o
+ ptimal experience\, we recommend using Google Chrome\, Firefox or Opera.
+SUMMARY:Playing It Smart—Scaling your Storage Business Model in a Redesig
+ ned Europe  
+URL:https://app.livestorm.co/p/d3c5da18-32b1-4a13-a995-40d0d87136eb/live?em
+ ail=mutali%40harmattanrenewables.com&key=e6740407356ace0d5eb3d0&s=63f73f60
+ -7ba0-4670-ad75-cb5859e76727
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:We’re excited to see the European Commission's recommendation
+  on energy storage and how it is finally being recognised as a crucial tec
+ hnology for a decarbonised energy system. Join this webinar to...\nTo join
+  the live event\, just click on this link https://app.livestorm.co/p/d3c5d
+ a18-32b1-4a13-a995-40d0d87136eb/live?email=mutali%40harmattanrenewables.co
+ m&key=e6740407356ace0d5eb3d0&s=63f73f60-7ba0-4670-ad75-cb5859e76727. This 
+ access link is personal\, so please don’t share it with anyone. For an o
+ ptimal experience\, we recommend using Google Chrome\, Firefox or Opera.
+SUMMARY:Playing It Smart—Scaling your Storage Business Model in a Redesig
+ ned Europe  
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:We’re excited to see the European Commission's recommendation
+  on energy storage and how it is finally being recognised as a crucial tec
+ hnology for a decarbonised energy system. Join this webinar to...\nTo join
+  the live event\, just click on this link https://app.livestorm.co/p/d3c5d
+ a18-32b1-4a13-a995-40d0d87136eb/live?email=mutali%40harmattanrenewables.co
+ m&key=e6740407356ace0d5eb3d0&s=63f73f60-7ba0-4670-ad75-cb5859e76727. This 
+ access link is personal\, so please don’t share it with anyone. For an o
+ ptimal experience\, we recommend using Google Chrome\, Firefox or Opera.
+SUMMARY:Playing It Smart—Scaling your Storage Business Model in a Redesig
+ ned Europe  
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT5M
+DESCRIPTION:We’re excited to see the European Commission's recommendation
+  on energy storage and how it is finally being recognised as a crucial tec
+ hnology for a decarbonised energy system. Join this webinar to...\nTo join
+  the live event\, just click on this link https://app.livestorm.co/p/d3c5d
+ a18-32b1-4a13-a995-40d0d87136eb/live?email=mutali%40harmattanrenewables.co
+ m&key=e6740407356ace0d5eb3d0&s=63f73f60-7ba0-4670-ad75-cb5859e76727. This 
+ access link is personal\, so please don’t share it with anyone. For an o
+ ptimal experience\, we recommend using Google Chrome\, Firefox or Opera.
+SUMMARY:Playing It Smart—Scaling your Storage Business Model in a Redesig
+ ned Europe  
+END:VALARM
+END:VEVENT
+END:VCALENDAR
